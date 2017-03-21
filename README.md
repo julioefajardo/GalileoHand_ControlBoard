@@ -5,6 +5,8 @@
 
 ### Bill of Materials:
 
+* Teensy 3.2
+* uLCD
 
 
 # Galileo Hand 
