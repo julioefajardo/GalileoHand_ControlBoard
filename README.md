@@ -16,6 +16,8 @@ Galileo Hand is a low-cost 3D-printed prosthetic hand, which is planned to be re
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TJ9j1dAHsXg?list=PLL6NCn-O29eXWlQLxlxE4cLNDKEPnxeVl" frameborder="0" allowfullscreen></iframe>
 
+[![Alt text for your video](https://img.youtube.com/vi/SJmWCHr21C8/0.jpg)](https://www.youtube.com/watch?v=TJ9j1dAHsXg&list=PLL6NCn-O29eXWlQLxlxE4cLNDKEPnxeVl)
+
 This controller takes advantage of digital signal processing and machine learning techniques, in order to integrate different systems on a single embedded controller operated through a user-friendly HMI that perfectly adapts on the user lifestyle like a wearable device. This allows the performing of more and
 complex customized hand prosthetic actions, such as individual finger movements, different kinds of grasping and time based sequential actions.
 
