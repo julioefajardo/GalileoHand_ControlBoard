@@ -73,40 +73,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WDNOGFAH
 
 [Document3]
-DocumentPath=..\EMG\EMG.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SURBSBGM
-
-[Document4]
-DocumentPath=..\EMG\EMG.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UPHWQNNI
-
-[Document5]
 DocumentPath=Galileo_Control_Board.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ILBYJEGJ
 
-[Document6]
+[Document4]
 DocumentPath=Galileo_Control_Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIYBGNDU
 
-[Document7]
+[Document5]
 DocumentPath=Galileo_Control_Board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document6]
 DocumentPath=Galileo_Control_Board_Library.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGXIGGCI
 
-[Document9]
+[Document7]
 DocumentPath=DCDC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKNYVHWK
 
-[Document10]
+[Document8]
 DocumentPath=ISL.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document9]
 DocumentPath=EMG.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SURBSBGM
 
-[Document12]
+[Document10]
 DocumentPath=Control.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVXCOCCW
 
-[Document13]
+[Document11]
 DocumentPath=Control.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=DCDC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=ISL.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=Galileo_Control_Board_Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -401,6 +367,7 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
+GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SignalIntegritySimulation]
