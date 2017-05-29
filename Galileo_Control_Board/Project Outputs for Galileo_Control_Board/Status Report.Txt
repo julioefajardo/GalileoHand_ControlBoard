@@ -1,12 +1,23 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [Galileo_Control_Board.PcbDoc]
-   Generated File[Galileo_Control_Board.TXT]
-   Generated File[Galileo_Control_Board.LDP]
-   Generated File[Galileo_Control_Board.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Galileo_Control_Board.PcbDoc]
+   Generated File[Galileo_Control_Board.GTL]
+   Generated File[Galileo_Control_Board.GBL]
+   Generated File[Galileo_Control_Board.GPB]
+   Generated File[Galileo_Control_Board.GPT]
+   Generated File[Galileo_Control_Board.GTO]
+   Generated File[Galileo_Control_Board.GTP]
+   Generated File[Galileo_Control_Board.GTS]
+   Generated File[Galileo_Control_Board.GBS]
+   Generated File[Galileo_Control_Board.GBP]
+   Generated File[Galileo_Control_Board.GBO]
+   Generated File[Galileo_Control_Board.GM2]
+   Generated File[Galileo_Control_Board.RUL]
+   Generated File[Galileo_Control_Board.EXTREP]
+   Generated File[Galileo_Control_Board.REP]
 
 
-Files Generated   : 3
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 5:04:46 PM On 25-May-17
+Finished Output Generation At 11:54:57 AM On 29-May-17
