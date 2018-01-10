@@ -1,7 +1,6 @@
 # Galileo Hand - Control Board PCB
 
-![Top](Top.PNG)
-![Bottom](Bottom.PNG)
+![New](new_version.jpg)
 
 ### Main Components:
 
