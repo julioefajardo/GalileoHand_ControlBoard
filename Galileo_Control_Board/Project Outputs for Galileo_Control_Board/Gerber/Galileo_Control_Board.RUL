@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\TuringLab\GalileoHand_ControlBoard\Galileo_Control_Board\Galileo_Control_Board.PcbDoc
+DRC Rules Export File for PCB: D:\TuringLab\GalileoHand_ControlBoardNew\Galileo_Control_Board\Galileo_Control_Board.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94

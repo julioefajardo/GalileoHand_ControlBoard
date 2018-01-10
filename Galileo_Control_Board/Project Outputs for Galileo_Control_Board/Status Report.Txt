@@ -1,23 +1,30 @@
-Output: Gerber Files
-Type  : Gerber
+Output: ODB++ Files
+Type  : ODB
 From  : Variant [[No Variations]] of PCB Document [Galileo_Control_Board.PcbDoc]
-   Generated File[Galileo_Control_Board.GTL]
-   Generated File[Galileo_Control_Board.GBL]
-   Generated File[Galileo_Control_Board.GPB]
-   Generated File[Galileo_Control_Board.GPT]
-   Generated File[Galileo_Control_Board.GTO]
-   Generated File[Galileo_Control_Board.GTP]
-   Generated File[Galileo_Control_Board.GTS]
-   Generated File[Galileo_Control_Board.GBS]
-   Generated File[Galileo_Control_Board.GBP]
-   Generated File[Galileo_Control_Board.GBO]
-   Generated File[Galileo_Control_Board.GM2]
-   Generated File[Galileo_Control_Board.RUL]
-   Generated File[Galileo_Control_Board.EXTREP]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
    Generated File[Galileo_Control_Board.REP]
 
 
-Files Generated   : 14
+Files Generated   : 21
 Documents Printed : 0
 
-Finished Output Generation At 11:54:57 AM On 29-May-17
+Finished Output Generation At 5:00:29 PM On 05-Oct-17
